@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+<employee>
+  <name>Sumon</name>
+  <skill>JAVA, PHP</skill>
+  <company>IDB BISEW</company>
+</employee>
+<employee>
+  <name>arif</name>
+  <skill>JAVA</skill>
+  <company>student</company>
+</employee>
+<employee>
+  <name>arif</name>
+  <skill>JAVA</skill>
+  <company>student</company>
+</employee>
+<employee>
+  <name>arif</name>
+  <skill>JAVA</skill>
+  <company>student</company>
+</employee>
+
+</person>
